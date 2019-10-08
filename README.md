@@ -18,6 +18,8 @@ SystemCheck::routes();
 /system/release
 ```
 
+That's it for laravel setup. Below is the manual usage of the functions.
+
 # Manual Usage
 
 ## Setup Health Check
